@@ -5,3 +5,14 @@ Artifacts
 Library
 Logs
 ProjectSettings
+NPC*
+*.meta
+*.fbx
+*.prefab
+*.png
+Mesh Asset
+venture*
+*.csproj
+VFX
+ProjectLittleAdventurer
+UserSettings
